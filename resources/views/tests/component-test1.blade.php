@@ -1,3 +1,4 @@
 <x-tests.app>
-コンポーネント１
+    <x-slot name="header">ヘッダー１</x-slot>
+    コンポーネント１
 </x-tests.app>
